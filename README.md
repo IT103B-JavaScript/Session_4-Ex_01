@@ -10,5 +10,5 @@
     |Trường hợp kiểm thử|Dữ liệu đầu vào|Kết quả sai sót|Kết quả mong đợi|
     |---|---|---|---|
     |Trường hợp đúng như đề với code chưa qua chỉnh sửa|orderQuantity = 3,drinkSize = "M", toppingsPerCup = 2, isGoldMember = true| 87210 | 137700|
-    |Thay đổi trường hợp isGoldMember = false| orderQuantity = 3,drinkSize = "M", toppingsPerCup = 2, isGoldMember = true| 102000 | 153000|
-    |---|---|---|---|
+    |Thay đổi trường hợp isGoldMember = false| orderQuantity = 3,drinkSize = "M", toppingsPerCup = 2, isGoldMember = false| 102000 | 153000|
+    
