@@ -6,7 +6,7 @@
     } đặt sai vị trí dẫn đến mỗi lần vòng lặp chạy một lần sẽ giảm giá 10% mỗi lần, để xử lí thì cần chuyển đòng if ra bên ngoài vòng lặp for
 
 - Bảng test case:
-    |---|---|---|---|
+    
     |Trường hợp kiểm thử|Dữ liệu đầu vào|Kết quả sai sót|Kết quả mong đợi|
     |---|---|---|---|
     |Trường hợp đúng như đề với code chưa qua chỉnh sửa|orderQuantity = 3,drinkSize = "M", toppingsPerCup = 2, isGoldMember = true| 87210 | 137700|
